@@ -1,0 +1,60 @@
+name: LIU BEIHE Daily Content Engine
+
+on:
+  schedule:
+    - cron: "0 11 * * *" # 19:00 Asia/Shanghai
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: liu-beihe-content-pages
+  cancel-in-progress: false
+
+jobs:
+  research-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5' }}
+      SITE_URL: https://sqliukunsq-cmyk.github.io/liu-beihe-archive
+      TZ: Asia/Shanghai
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install --upgrade openai markdown
+      - name: Generate 10+ researched articles
+        run: python scripts/generate_daily_research.py
+      - name: Commit research archive
+        run: |
+          git config user.name "LIU BEIHE Content Engine"
+          git config user.email "actions@users.noreply.github.com"
+          git add research index.html sitemap.xml
+          if git diff --cached --quiet; then
+            echo "No new content generated."
+          else
+            git commit -m "Daily research archive $(date +%F)"
+            git push origin HEAD:main
+          fi
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

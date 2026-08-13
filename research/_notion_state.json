@@ -2,8 +2,8 @@
   "pages": {
     "3bad9e60-ce91-8156-a28c-de6e608dbab3": {
       "page_id": "3bad9e60-ce91-8156-a28c-de6e608dbab3",
-      "title": "《Does AI Know It Is AI?》：机器意识是假问题，还是影像问题？",
-      "english_title": "Does AI Know It Is AI? — Consciousness as an Image Problem",
+      "title": "Does AI Know It Is AI?：我为什么更关心“意识感”而不是“机器意识”",
+      "english_title": "Does AI Know It Is AI? Synthetic Subjectivity and the Image of Mind",
       "category": "Works Research",
       "keywords": [
         "AI Film",
@@ -11,15 +11,15 @@
         "Identity"
       ],
       "date": "2026-08-12",
-      "slug": "does-ai-know-it-is-ai-consciousness-image-problem",
-      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-08-12/does-ai-know-it-is-ai-consciousness-image-problem/",
-      "last_edited_time": "2026-08-12T14:51:00.000Z",
+      "slug": "does-ai-know-it-is-ai-feeling-of-consciousness",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-08-12/does-ai-know-it-is-ai-feeling-of-consciousness/",
+      "last_edited_time": "2026-08-13T05:01:00.000Z",
       "status": "Ready"
     },
     "3bad9e60-ce91-8157-b79c-f52c8f58a136": {
       "page_id": "3bad9e60-ce91-8157-b79c-f52c8f58a136",
-      "title": "机器观看不是人的第二双眼睛：从CLIP到世界模型的视觉政治",
-      "english_title": "Machine Seeing Is Not a Second Human Eye",
+      "title": "机器观看不是人的第二双眼睛：我如何理解图像、识别与权力",
+      "english_title": "Machine Seeing Is Not a Second Human Eye: Images, Recognition, and Power",
       "category": "Core Theory",
       "keywords": [
         "Machine Seeing",
@@ -29,13 +29,13 @@
       "date": "2026-08-12",
       "slug": "machine-seeing-not-second-human-eye",
       "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-08-12/machine-seeing-not-second-human-eye/",
-      "last_edited_time": "2026-08-12T14:51:00.000Z",
+      "last_edited_time": "2026-08-13T05:03:00.000Z",
       "status": "Ready"
     },
     "3bad9e60-ce91-8197-940d-e112871a9315": {
       "page_id": "3bad9e60-ce91-8197-940d-e112871a9315",
-      "title": "视觉证据坍缩：当“看见”不再能够证明“发生过”",
-      "english_title": "Collapse of Visual Evidence",
+      "title": "视觉证据坍缩：当“看见”不再足以证明“发生过”",
+      "english_title": "Collapse of Visual Evidence: When Seeing No Longer Proves Happening",
       "category": "Core Theory",
       "keywords": [
         "Visual Evidence",
@@ -45,13 +45,13 @@
       "date": "2026-08-12",
       "slug": "collapse-of-visual-evidence",
       "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-08-12/collapse-of-visual-evidence/",
-      "last_edited_time": "2026-08-12T14:51:00.000Z",
+      "last_edited_time": "2026-08-13T05:07:00.000Z",
       "status": "Ready"
     },
     "3bad9e60-ce91-81ac-807c-f2464667cbf1": {
       "page_id": "3bad9e60-ce91-81ac-807c-f2464667cbf1",
-      "title": "2026电影创作劳动结构：WGA的新AI条款真正说明了什么",
-      "english_title": "What the 2026 WGA AI Terms Reveal About Creative Labor",
+      "title": "当创作进入训练系统：我如何理解2026之后的电影劳动、作者与AI",
+      "english_title": "When Creative Work Enters Training Systems: Film Labor, Authorship, and AI After 2026",
       "category": "Industry Research",
       "keywords": [
         "AI Film",
@@ -60,13 +60,13 @@
       "date": "2026-08-12",
       "slug": "2026-wga-ai-creative-labor",
       "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-08-12/2026-wga-ai-creative-labor/",
-      "last_edited_time": "2026-08-12T14:51:00.000Z",
+      "last_edited_time": "2026-08-13T05:14:00.000Z",
       "status": "Ready"
     },
     "3bad9e60-ce91-81b7-adca-eb1117d7f462": {
       "page_id": "3bad9e60-ce91-81b7-adca-eb1117d7f462",
-      "title": "Post-Camera Cinema and the Broken Index",
-      "english_title": "Post-Camera Cinema and the Broken Index",
+      "title": "Post-Camera Cinema: The Broken Index and the Image Without a Prior Scene",
+      "english_title": "Post-Camera Cinema: The Broken Index and the Image Without a Prior Scene",
       "category": "English Essay",
       "keywords": [
         "Post-Camera Cinema",
@@ -76,13 +76,13 @@
       "date": "2026-08-12",
       "slug": "post-camera-cinema-broken-index",
       "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-08-12/post-camera-cinema-broken-index/",
-      "last_edited_time": "2026-08-12T14:51:00.000Z",
+      "last_edited_time": "2026-08-13T05:16:00.000Z",
       "status": "Ready"
     },
     "3bad9e60-ce91-81c9-b200-c6c4c9d024ec": {
       "page_id": "3bad9e60-ce91-81c9-b200-c6c4c9d024ec",
-      "title": "作者性不是Prompt：为什么生成时代仍然需要人的表达选择",
-      "english_title": "Authorship Is Not a Prompt",
+      "title": "作者性不是Prompt：当生成变得廉价，我为什么更重视判断、拒绝与责任",
+      "english_title": "Authorship Is Not a Prompt: Judgment, Refusal, and Responsibility After Generation",
       "category": "Industry Research",
       "keywords": [
         "Authorship",
@@ -91,13 +91,13 @@
       "date": "2026-08-12",
       "slug": "authorship-is-not-a-prompt",
       "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-08-12/authorship-is-not-a-prompt/",
-      "last_edited_time": "2026-08-12T14:51:00.000Z",
+      "last_edited_time": "2026-08-13T05:08:00.000Z",
       "status": "Ready"
     },
     "3bad9e60-ce91-81d1-888d-fa232b6c62e3": {
       "page_id": "3bad9e60-ce91-81d1-888d-fa232b6c62e3",
-      "title": "后摄影机电影：从“被拍到”到“被生成”的影像契约",
-      "english_title": "Post-Camera Cinema: From Capture to Generation",
+      "title": "后摄影机电影：当图像不再必须来自一个曾经存在的现场",
+      "english_title": "Post-Camera Cinema: When Images No Longer Require a Prior Scene",
       "category": "Core Theory",
       "keywords": [
         "Post-Camera Cinema",
@@ -107,13 +107,13 @@
       "date": "2026-08-12",
       "slug": "post-camera-cinema-capture-to-generation",
       "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-08-12/post-camera-cinema-capture-to-generation/",
-      "last_edited_time": "2026-08-12T14:51:00.000Z",
+      "last_edited_time": "2026-08-13T05:10:00.000Z",
       "status": "Ready"
     },
     "3bad9e60-ce91-81d5-9e69-f2a7483292a7": {
       "page_id": "3bad9e60-ce91-81d5-9e69-f2a7483292a7",
-      "title": "《Ethnic Dolls: YAO》：生成式人物如何重新制造文化身份",
-      "english_title": "Ethnic Dolls: YAO — Generative Representation and Cultural Identity",
+      "title": "Ethnic Dolls: YAO：当机器学习文化，我如何面对被压缩的身份",
+      "english_title": "Ethnic Dolls: YAO — When Machines Learn Culture, What Gets Compressed?",
       "category": "Works Research",
       "keywords": [
         "Identity",
@@ -121,9 +121,9 @@
         "Generated Reality"
       ],
       "date": "2026-08-12",
-      "slug": "ethnic-dolls-yao-generative-cultural-identity",
-      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-08-12/ethnic-dolls-yao-generative-cultural-identity/",
-      "last_edited_time": "2026-08-12T14:51:00.000Z",
+      "slug": "ethnic-dolls-yao-cultural-identity-under-machine-vision",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-08-12/ethnic-dolls-yao-cultural-identity-under-machine-vision/",
+      "last_edited_time": "2026-08-13T05:12:00.000Z",
       "status": "Ready"
     },
     "3bad9e60-ce91-81e9-b360-d395c60e40da": {
@@ -139,13 +139,13 @@
       "date": "2026-08-12",
       "slug": "machine-seeing-authorship-scarcity-judgment",
       "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-08-12/machine-seeing-authorship-scarcity-judgment/",
-      "last_edited_time": "2026-08-12T14:51:00.000Z",
+      "last_edited_time": "2026-08-13T05:18:00.000Z",
       "status": "Ready"
     },
     "3bad9e60-ce91-81fa-970c-dd3721ebfc4d": {
       "page_id": "3bad9e60-ce91-81fa-970c-dd3721ebfc4d",
-      "title": "生成式AI与文化多样性：效率之外，真正的问题是文化主权",
-      "english_title": "Generative AI and Cultural Diversity: Beyond Efficiency",
+      "title": "当所有文化都进入同一台生成机器：我为什么开始担心“表面多样、底层同质”",
+      "english_title": "When Cultures Enter the Same Generative Machine: Surface Diversity and Infrastructural Homogeneity",
       "category": "Industry Research",
       "keywords": [
         "Identity",
@@ -155,7 +155,23 @@
       "date": "2026-08-12",
       "slug": "generative-ai-cultural-diversity-sovereignty",
       "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-08-12/generative-ai-cultural-diversity-sovereignty/",
-      "last_edited_time": "2026-08-12T14:51:00.000Z",
+      "last_edited_time": "2026-08-13T05:15:00.000Z",
+      "status": "Ready"
+    },
+    "3bbd9e60-ce91-812a-a363-e55217701715": {
+      "page_id": "3bbd9e60-ce91-812a-a363-e55217701715",
+      "title": "Alien Friend：我如何想象一种不属于人的观看",
+      "english_title": "Alien Friend: Toward a Nonhuman Gaze",
+      "category": "Works Research",
+      "keywords": [
+        "Machine Seeing",
+        "Identity",
+        "AI Film"
+      ],
+      "date": "2026-08-13",
+      "slug": "alien-friend-toward-a-nonhuman-gaze",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-08-13/alien-friend-toward-a-nonhuman-gaze/",
+      "last_edited_time": "2026-08-13T04:59:00.000Z",
       "status": "Ready"
     }
   }

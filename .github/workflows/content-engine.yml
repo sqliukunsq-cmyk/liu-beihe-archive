@@ -1,8 +1,8 @@
-name: LIU BEIHE Daily Content Engine
+name: LIU BEIHE Notion → GitHub Publisher
 
 on:
   schedule:
-    - cron: "0 11 * * *" # 19:00 Asia/Shanghai
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,50 +11,58 @@ permissions:
   id-token: write
 
 concurrency:
-  group: liu-beihe-content-pages
+  group: liu-beihe-notion-publisher
   cancel-in-progress: false
 
 jobs:
-  research-publish:
+  sync-publish:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     env:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5' }}
+      NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+      NOTION_DATA_SOURCE_ID: 7e2c17cf-b76f-4b0b-bd6c-b54dbaaaa98c
       SITE_URL: https://sqliukunsq-cmyk.github.io/liu-beihe-archive
       TZ: Asia/Shanghai
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Install dependencies
-        run: pip install --upgrade openai markdown
-      - name: Generate 10+ researched articles
-        run: python scripts/generate_daily_research.py
-      - name: Commit research archive
+
+      - name: Install publisher dependencies
+        run: pip install --upgrade requests markdown
+
+      - name: Sync Notion knowledge base
+        run: python scripts/sync_notion_to_github.py
+
+      - name: Commit synced research
         run: |
-          git config user.name "LIU BEIHE Content Engine"
+          git config user.name "LIU BEIHE Publisher"
           git config user.email "actions@users.noreply.github.com"
-          git add research index.html sitemap.xml
+          git add -A
           if git diff --cached --quiet; then
-            echo "No new content generated."
+            echo "No Notion changes to publish."
           else
-            git commit -m "Daily research archive $(date +%F)"
+            git commit -m "Sync LIU BEIHE research from Notion $(date +%F-%H%M)"
             git push origin HEAD:main
           fi
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

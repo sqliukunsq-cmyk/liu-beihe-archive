@@ -2,7 +2,7 @@ name: LIU BEIHE Notion → GitHub Publisher
 
 on:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -43,26 +43,35 @@ jobs:
       - name: Sync Notion knowledge base
         run: python scripts/sync_notion_to_github.py
 
+      - name: Clean stale research URLs
+        run: python scripts/cleanup_research_archive.py
+
       - name: Commit synced research
+        id: publish
         run: |
           git config user.name "LIU BEIHE Publisher"
           git config user.email "actions@users.noreply.github.com"
           git add -A
           if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No Notion changes to publish."
           else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
             git commit -m "Sync LIU BEIHE research from Notion $(date +%F-%H%M)"
             git push origin HEAD:main
           fi
 
       - name: Configure Pages
+        if: steps.publish.outputs.changed == 'true'
         uses: actions/configure-pages@v5
 
       - name: Upload Pages artifact
+        if: steps.publish.outputs.changed == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
 
       - name: Deploy to GitHub Pages
+        if: steps.publish.outputs.changed == 'true'
         id: deployment
         uses: actions/deploy-pages@v4

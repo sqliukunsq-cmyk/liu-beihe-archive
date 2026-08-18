@@ -17,6 +17,21 @@ Public bilingual archive and static website of LIU BEIHE / 刘北河.
 - Collapse of Visual Evidence / 视觉证据坍缩
 - Scarcity of Judgment / 审美稀缺
 
+<!-- AUTO_RESEARCH_STATS_START -->
+## Research archive status / 研究档案状态
+
+**52 public research entries / 共 52 篇公开研究文章**
+
+- Core Theory: 22
+- English Essay: 6
+- Industry Research: 13
+- Works Research: 11
+
+- Latest archive date: 2026-08-18
+- Draft entries are excluded from GitHub publication.
+- Research Archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/
+<!-- AUTO_RESEARCH_STATS_END -->
+
 Official website: https://liukun.puruimier.com/
 
 > 当机器开始生成我们所观看的世界，人类是否仍然是图像唯一的作者？

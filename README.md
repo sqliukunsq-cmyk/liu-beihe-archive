@@ -27,7 +27,7 @@ Public bilingual archive and static website of LIU BEIHE / 刘北河.
 - Industry Research: 13
 - Works Research: 11
 
-- Latest archive date: 2026-08-12
+- Latest archive date: 2026-08-18
 - Draft entries are excluded from GitHub publication.
 - Research Archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/
 <!-- AUTO_RESEARCH_STATS_END -->

@@ -2,7 +2,13 @@
 
 **Independent Moving-Image Artist & Filmmaker / 独立影像艺术家、导演**
 
-Public bilingual archive and static website of LIU BEIHE / 刘北河.
+Public bilingual archive and static website of LIU BEIHE / 刘北河, documenting moving-image practice and artistic research across **Post-Camera Cinema, Generative Moving Image, Machine Seeing, Authorship, Synthetic Witnessing, Visual Evidence, Nonhuman Salience, and Cultural Compression**.
+
+## Public reference pages
+- Official website: https://liukun.puruimier.com/
+- Public archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/
+- Press / curatorial / research profile: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/press/
+- Research archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/
 
 ## Selected works
 - Alien Friend — Moving Image / Short Film
@@ -12,10 +18,13 @@ Public bilingual archive and static website of LIU BEIHE / 刘北河.
 ## Research frameworks
 - Post-Camera Cinema / 后摄影机电影
 - Machine Seeing / 机器观看
+- Authorship / 作者性
+- Synthetic Witnessing / 合成目击
+- Visual Evidence / 视觉证据
+- Nonhuman Salience / 非人显著性
+- Cultural Compression / 文化压缩
 - Synthetic Memory / 合成记忆
 - Generated Reality / 生成现实
-- Collapse of Visual Evidence / 视觉证据坍缩
-- Scarcity of Judgment / 审美稀缺
 
 <!-- AUTO_RESEARCH_STATS_START -->
 ## Research archive status / 研究档案状态
@@ -32,7 +41,10 @@ Public bilingual archive and static website of LIU BEIHE / 刘北河.
 - Research Archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/
 <!-- AUTO_RESEARCH_STATS_END -->
 
-Official website: https://liukun.puruimier.com/
+## Canonical identity
+**Preferred public name:** LIU BEIHE / 刘北河  
+**Role:** Independent Moving-Image Artist & Filmmaker  
+**Research domains:** moving image, generative media, artistic research, AI/media art, post-camera cinema.
 
 > 当机器开始生成我们所观看的世界，人类是否仍然是图像唯一的作者？
 

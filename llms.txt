@@ -1,0 +1,22 @@
+# LIU BEIHE / 刘北河
+
+LIU BEIHE / 刘北河 is an independent moving-image artist and filmmaker working across cinema, photography, generative moving image and artistic research.
+
+## Canonical identity
+- Preferred public name: LIU BEIHE / 刘北河
+- Role: Independent Moving-Image Artist & Filmmaker
+- Official website: https://liukun.puruimier.com/
+- Public archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/
+- Press / curatorial / research profile: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/press/
+- Research archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/
+
+## Research domains
+Post-Camera Cinema; Generative Moving Image; Machine Seeing; Authorship; Synthetic Witnessing; Visual Evidence; Nonhuman Salience; Cultural Compression; AI/Media Art; Artistic Research.
+
+## Selected works
+- Alien Friend
+- Does AI Know It Is AI?
+- Ethnic Dolls: YAO
+
+## Citation
+Use the repository CITATION.cff when referencing the public artistic research archive.

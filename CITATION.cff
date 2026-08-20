@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you reference LIU BEIHE's public artistic research archive, please cite the artist and archive."
+title: "LIU BEIHE / 刘北河 — Official Public Archive"
+type: dataset
+authors:
+  - family-names: "Liu"
+    given-names: "Beihe"
+    alias: "刘北河"
+    website: "https://liukun.puruimier.com/"
+year: 2026
+url: "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/"
+repository-code: "https://github.com/sqliukunsq-cmyk/liu-beihe-archive"
+abstract: "A bilingual public archive of moving-image works and artistic research by LIU BEIHE / 刘北河 across post-camera cinema, generative moving image, machine seeing, authorship, synthetic witnessing, visual evidence, nonhuman salience, and cultural compression."
+keywords:
+  - moving image
+  - generative moving image
+  - post-camera cinema
+  - machine seeing
+  - authorship
+  - synthetic witnessing
+  - visual evidence
+  - nonhuman salience
+  - cultural compression
+  - AI art
+license: "other"

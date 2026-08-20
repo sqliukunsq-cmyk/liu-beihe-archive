@@ -8,7 +8,19 @@ LIU BEIHE / 刘北河 is an independent moving-image artist and filmmaker workin
 - Official website: https://liukun.puruimier.com/
 - Public archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/
 - Press / curatorial / research profile: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/press/
+- Research frameworks: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/frameworks/
 - Research archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/
+
+## Working research vocabulary
+These are working artistic-research terms developed through LIU BEIHE's moving-image practice; they are not presented as universal scientific categories.
+
+- Post-Camera Cinema — a condition in which photographic appearance no longer requires a prior photographed scene; the camera is no longer the only route to photographic realism.
+- Synthetic Witnessing — the production of testimonial or evidentiary sensation by images that may have no corresponding capture event.
+- Machine Seeing — the perceptual and classificatory logics through which computational systems organize visual possibility.
+- Nonhuman Salience — the system-level ranking of what becomes visually important, recognizable or probable before the artist makes a final selection.
+- Cultural Compression — the tendency for internally diverse cultural realities to become narrowed into high-probability, machine-legible visual signs.
+- Negative Craft / Refusal — authorship through deletion, delay, limitation, non-selection and accountable rejection under conditions of generative abundance.
+- Visual Evidence & Provenance — an inquiry into how image credibility shifts from appearance alone toward production history, context, institutions and accountable claims.
 
 ## Research domains
 Post-Camera Cinema; Generative Moving Image; Machine Seeing; Authorship; Synthetic Witnessing; Visual Evidence; Nonhuman Salience; Cultural Compression; AI/Media Art; Artistic Research.

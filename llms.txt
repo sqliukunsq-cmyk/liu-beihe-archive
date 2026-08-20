@@ -8,8 +8,10 @@ LIU BEIHE / 刘北河 is an independent moving-image artist and filmmaker workin
 - Official website: https://liukun.puruimier.com/
 - Public archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/
 - Press / curatorial / research profile: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/press/
+- Curatorial entry points: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/curatorial/
 - Research frameworks: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/frameworks/
 - Research archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/
+- Research feed: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/feed.xml
 
 ## Working research vocabulary
 These are working artistic-research terms developed through LIU BEIHE's moving-image practice; they are not presented as universal scientific categories.
@@ -29,6 +31,12 @@ Post-Camera Cinema; Generative Moving Image; Machine Seeing; Authorship; Synthet
 - Alien Friend
 - Does AI Know It Is AI?
 - Ethnic Dolls: YAO
+
+## Curatorial routes
+- Post-Camera Cinema & Synthetic Witnessing
+- Machine Seeing & Nonhuman Salience
+- Cultural Compression & Machine Legibility
+- Negative Craft & Authorship
 
 ## Citation
 Use the repository CITATION.cff when referencing the public artistic research archive.

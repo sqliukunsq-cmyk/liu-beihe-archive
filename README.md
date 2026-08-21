@@ -29,14 +29,14 @@ Public bilingual archive and static website of LIU BEIHE / 刘北河, documentin
 <!-- AUTO_RESEARCH_STATS_START -->
 ## Research archive status / 研究档案状态
 
-**52 public research entries / 共 52 篇公开研究文章**
+**53 public research entries / 共 53 篇公开研究文章**
 
-- Core Theory: 22
+- Core Theory: 23
 - English Essay: 6
 - Industry Research: 13
 - Works Research: 11
 
-- Latest archive date: 2026-08-18
+- Latest archive date: 2026-08-21
 - Draft entries are excluded from GitHub publication.
 - Research Archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/
 <!-- AUTO_RESEARCH_STATS_END -->

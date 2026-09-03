@@ -36,10 +36,14 @@ Public bilingual archive and static website of LIU BEIHE / 刘北河, documentin
 - Industry Research: 13
 - Works Research: 11
 
-- Latest archive date: 2026-08-21
-- Draft entries are excluded from GitHub publication.
+- Latest archive content date: 2026-08-21
+- Public archive sync verified: 2026-09-03
+- Draft entries and private agent/relationship data are excluded from GitHub publication.
 - Research Archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/
 <!-- AUTO_RESEARCH_STATS_END -->
+
+## Archive policy
+The public GitHub archive is the discoverable research, identity, and SEO layer for LIU BEIHE. Private opportunity tracking, contact history, application status, and outreach discipline remain in the private agent CRM and are not mirrored publicly.
 
 ## Canonical identity
 **Preferred public name:** LIU BEIHE / 刘北河  

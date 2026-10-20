@@ -1,5 +1,5 @@
 from __future__ import annotations
-import os, json, re, html
+import os, json, re, html, hashlib
 from pathlib import Path
 from datetime import datetime
 from collections import Counter
@@ -8,7 +8,7 @@ import markdown
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = os.environ.get("SITE_URL", "https://sqliukunsq-cmyk.github.io/liu-beihe-archive").rstrip("/")
-TOKEN = os.environ["NOTION_API_KEY"]
+TOKEN = os.environ.get("NOTION_API_KEY", "")
 DS = os.environ.get("NOTION_DATA_SOURCE_ID", "7e2c17cf-b76f-4b0b-bd6c-b54dbaaaa98c")
 VERSION = "2026-03-11"
 
@@ -23,6 +23,8 @@ HEADERS = {
 }
 
 def api(method, url, **kwargs):
+    if not TOKEN:
+        raise RuntimeError("NOTION_API_KEY is required for legacy Notion synchronization")
     r = requests.request(method, url, headers=HEADERS, timeout=60, **kwargs)
     if r.status_code >= 400:
         raise RuntimeError(f"Notion API {r.status_code}: {r.text[:1000]}")
@@ -87,6 +89,58 @@ def page_markdown(page_id):
     md = data.get("markdown", "")
     md = re.sub(r'<mention-[^>]+>(.*?)</mention-[^>]+>', r'\1', md, flags=re.S)
     return md
+
+def public_ledger_articles():
+    """Load explicitly approved mirrors from the writable Notion ledger.
+
+    These are committed by the writing task after it verifies the Notion page.
+    No private ledger traversal or dependence on the legacy API token is needed.
+    """
+    manifest = RESEARCH / "_public_ledger.json"
+    if not manifest.exists():
+        return []
+    data = json.loads(manifest.read_text("utf-8"))
+    if data.get("version") != 1 or not isinstance(data.get("pages"), dict):
+        raise ValueError("Unsupported public ledger manifest")
+    articles, destinations = [], set()
+    sources_root = (RESEARCH / "sources").resolve()
+    for page_id, entry in data["pages"].items():
+        if entry.get("status") not in ("Ready", "Published"):
+            continue
+        if not re.fullmatch(r"[0-9a-f]{8}(-[0-9a-f]{4}){3}-[0-9a-f]{12}", page_id):
+            raise ValueError("Public ledger requires a Notion page UUID")
+        date, slug = entry["date"], entry["slug"]
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", date):
+            raise ValueError("Invalid public ledger date")
+        datetime.strptime(date, "%Y-%m-%d")
+        if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", slug):
+            raise ValueError("Invalid public ledger slug")
+        if (date, slug) in destinations:
+            raise ValueError("Duplicate public ledger destination")
+        destinations.add((date, slug))
+        source = (ROOT / entry["source_path"]).resolve()
+        if not source.is_relative_to(sources_root) or source.suffix != ".md":
+            raise ValueError("Public source must be Markdown under research/sources")
+        md = source.read_text("utf-8")
+        # Daily long-form entries specify a substantive-body minimum; headings,
+        # front matter, punctuation, and references do not count toward it.
+        main = re.split(r"^## (?:参考文献|References)", md, maxsplit=1, flags=re.M)[0]
+        first_section = re.search(r"^## ", main, flags=re.M)
+        if first_section:
+            main = main[first_section.start():]
+        main = "\n".join(line for line in main.splitlines() if not line.startswith("#"))
+        count = len(re.findall(r"[\u3400-\u9fff]", main))
+        if count < entry.get("min_body_cjk", 0):
+            raise ValueError(f"Public ledger body too short: {page_id}: {count}")
+        rec = {key: entry[key] for key in (
+            "title", "english_title", "category", "keywords", "date", "slug",
+            "last_edited_time", "status", "source_path", "notion_url"
+        )}
+        rec.update(page_id=page_id, url=f"{SITE}/research/{date}/{slug}/",
+                   source_sha256=hashlib.sha256(md.encode("utf-8")).hexdigest(),
+                   body_cjk_count=count, source="public-ledger")
+        articles.append((rec, md))
+    return articles
 
 def render_article(rec, md):
     lang = "en" if rec["category"] == "English Essay" else "zh-CN"
@@ -457,11 +511,18 @@ def rebuild_sitemap():
     xml += "</urlset>\n"
     (ROOT / "sitemap.xml").write_text(xml, "utf-8")
 
+ledger_articles = public_ledger_articles()  # Validate before touching existing output.
+ledger_only = os.environ.get("PUBLIC_LEDGER_ONLY") == "1"
+if ledger_only and not STATE_PATH.exists():
+    raise ValueError("Immediate ledger publication requires an existing legacy state")
 state = load_state()
 pages_state = state.setdefault("pages", {})
-rows = query_all_pages()
+previous_pages = dict(pages_state)
+rows = [] if ledger_only else query_all_pages()
 changed = 0
-publishable_ids = set()
+publishable_ids = ({pid for pid, rec in pages_state.items()
+                    if rec.get("source") != "public-ledger"}
+                   if ledger_only else set())
 
 for page in rows:
     status = prop(page, "Status")
@@ -511,6 +572,23 @@ for pid in list(pages_state):
     if pid not in publishable_ids:
         pages_state.pop(pid, None)
 
+# Merge the active ledger after legacy-source pruning so the next scheduled
+# sync and orphan cleanup preserve approved new articles.
+for rec, md in ledger_articles:
+    page_id = rec["page_id"]
+    if page_id in publishable_ids:
+        raise ValueError("A page cannot be registered in both research sources")
+    if any((item["date"], item["slug"]) == (rec["date"], rec["slug"])
+           for item in pages_state.values()):
+        raise ValueError("Public ledger destination collides with legacy research")
+    old = previous_pages.get(page_id)
+    target = RESEARCH / rec["date"] / rec["slug"] / "index.html"
+    if old != rec or not target.exists():
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_text(render_article(rec, md), "utf-8")
+        changed += 1
+    pages_state[page_id] = rec
+
 STATE_PATH.write_text(json.dumps(state, ensure_ascii=False, indent=2), "utf-8")
 records = list(pages_state.values())
 cards = rebuild_archive(records)
@@ -519,5 +597,6 @@ patch_readme(records)
 rebuild_sitemap()
 
 print(f"Notion pages visible: {len(rows)}")
+print(f"Approved active-ledger entries: {len(ledger_articles)}")
 print(f"Research archive entries: {len(records)}")
 print(f"New/updated pages rendered: {changed}")

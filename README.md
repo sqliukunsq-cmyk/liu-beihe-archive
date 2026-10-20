@@ -29,14 +29,14 @@ Public bilingual archive and static website of LIU BEIHE / 刘北河, documentin
 <!-- AUTO_RESEARCH_STATS_START -->
 ## Research archive status / 研究档案状态
 
-**53 public research entries / 共 53 篇公开研究文章**
+**54 public research entries / 共 54 篇公开研究文章**
 
-- Core Theory: 23
+- Core Theory: 24
 - English Essay: 6
 - Industry Research: 13
 - Works Research: 11
 
-- Latest archive date: 2026-08-21
+- Latest archive date: 2026-10-20
 - Draft entries are excluded from GitHub publication.
 - Research Archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/
 <!-- AUTO_RESEARCH_STATS_END -->
@@ -46,7 +46,8 @@ The public GitHub archive is the discoverable research, identity, and SEO layer 
 
 ## Publishing and authentication
 - [Authentication, credentials, and request flow](docs/authentication.md)
-- Publication requires an explicit `Ready` or `Published` status in the configured Notion research data source. Draft, blank, and unknown statuses are excluded.
+- Publication requires an explicit `Ready` or `Published` status in the configured Notion research data source or the approved active-ledger manifest. Draft, blank, and unknown statuses are excluded from rendering. Only public essays may be committed as raw sources.
+- New daily essays are saved in the writable Notion ledger and immediately mirrored, rendered and committed in the same writing task. The scheduled legacy sync preserves these approved entries. See [daily writing and publication](docs/daily-research.md).
 - The private knowledge ledger is a separate editorial workspace, not an automatic public mirror. Unpublished submissions and private correspondence stay there.
 
 ## Canonical identity

@@ -467,7 +467,7 @@ for page in rows:
     status = prop(page, "Status")
 
     # IMPORTANT: Draft (and any other non-public state) stays out of GitHub.
-    if status and status not in ("Ready", "Published"):
+    if status not in ("Ready", "Published"):
         continue
 
     page_id = page["id"]
@@ -495,7 +495,7 @@ for page in rows:
         "slug": slug,
         "url": url,
         "last_edited_time": last_edit,
-        "status": status or "Ready",
+        "status": status,
     }
 
     target = RESEARCH / date / slug / "index.html"

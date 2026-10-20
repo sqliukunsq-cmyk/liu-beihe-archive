@@ -44,6 +44,11 @@ Public bilingual archive and static website of LIU BEIHE / 刘北河, documentin
 ## Archive policy
 The public GitHub archive is the discoverable research, identity, and SEO layer for LIU BEIHE. Private opportunity tracking, contact history, application status, and outreach discipline remain in the private agent CRM and are not mirrored publicly.
 
+## Publishing and authentication
+- [Authentication, credentials, and request flow](docs/authentication.md)
+- Publication requires an explicit `Ready` or `Published` status in the configured Notion research data source. Draft, blank, and unknown statuses are excluded.
+- The private knowledge ledger is a separate editorial workspace, not an automatic public mirror. Unpublished submissions and private correspondence stay there.
+
 ## Canonical identity
 **Preferred public name:** LIU BEIHE / 刘北河  
 **Role:** Independent Moving-Image Artist & Filmmaker  

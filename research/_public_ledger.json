@@ -5,13 +5,37 @@
       "title": "谁在维持一个世界——生成式电影的连续性债务与导演的证据责任",
       "english_title": "Continuity Debt and the Director’s Evidential Responsibility in Generative Cinema",
       "category": "Core Theory",
-      "keywords": ["Post-Camera Cinema", "Authorship", "Visual Evidence", "Continuity"],
+      "keywords": [
+        "Post-Camera Cinema",
+        "Authorship",
+        "Visual Evidence",
+        "Continuity"
+      ],
       "date": "2026-10-20",
       "slug": "continuity-debt-directorial-evidence",
       "last_edited_time": "2026-10-20T13:32:16.204Z",
       "status": "Ready",
       "source_path": "research/sources/2026-10-20/continuity-debt.md",
       "notion_url": "https://app.notion.com/p/3ffd9e60ce91812094fbf53b36e76786",
+      "min_body_cjk": 8000
+    },
+    "400d9e60-ce91-814f-91ce-e11a274e03a3": {
+      "title": "声音替谁作证——生成式电影中的画外因果与听觉证据",
+      "english_title": "Who Does Sound Testify For? Off-Screen Causality and Auditory Evidence in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Synthetic Witnessing",
+        "Machine Seeing",
+        "Visual Evidence",
+        "Authorship",
+        "Sound"
+      ],
+      "date": "2026-10-21",
+      "slug": "sound-offscreen-causality-auditory-evidence",
+      "last_edited_time": "2026-10-21T01:00:43.326Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-10-21/sound-offscreen-evidence.md",
+      "notion_url": "https://app.notion.com/p/400d9e60ce91814f91cee11a274e03a3",
       "min_body_cjk": 8000
     }
   }

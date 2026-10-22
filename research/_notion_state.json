@@ -881,6 +881,28 @@
       "source_sha256": "c1f52cb69e7ba5a27b103fe667d9487a1b0777b63034a45ded1894e4903dc9a6",
       "body_cjk_count": 9412,
       "source": "public-ledger"
+    },
+    "401d9e60-ce91-815d-9f39-e1fcaa156a9d": {
+      "title": "当日常生活被生成为风格——生成式电影的文化压缩与生活结构",
+      "english_title": "When Everyday Life Becomes a Style: Cultural Compression and the Conditions of Action in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Cultural Compression",
+        "Machine Seeing",
+        "Authorship",
+        "Post-Camera Cinema"
+      ],
+      "date": "2026-10-22",
+      "slug": "everyday-life-cultural-compression-conditions-of-action",
+      "last_edited_time": "2026-10-22T00:18:13.219Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-10-22/everyday-life-cultural-representation.md",
+      "notion_url": "https://app.notion.com/p/401d9e60ce91815d9f39e1fcaa156a9d",
+      "page_id": "401d9e60-ce91-815d-9f39-e1fcaa156a9d",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-10-22/everyday-life-cultural-compression-conditions-of-action/",
+      "source_sha256": "5cbbd756ddfb8ef6dd891d8520c03545e6ef8a82ff91cc8dc1ad768fa1eb6323",
+      "body_cjk_count": 9137,
+      "source": "public-ledger"
     }
   }
 }

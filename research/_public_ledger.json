@@ -55,6 +55,25 @@
       "source_path": "research/sources/2026-10-22/everyday-life-cultural-representation.md",
       "notion_url": "https://app.notion.com/p/401d9e60ce91815d9f39e1fcaa156a9d",
       "min_body_cjk": 8000
+    },
+    "402d9e60-ce91-8143-8629-c71d7bb23059": {
+      "title": "热力图之后谁来解释——生成式电影的注视预测与叙事理解",
+      "english_title": "After the Heatmap: Gaze Prediction and Narrative Understanding in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Nonhuman Salience",
+        "Machine Seeing",
+        "Authorship",
+        "Visual Evidence",
+        "Post-Camera Cinema"
+      ],
+      "date": "2026-10-23",
+      "slug": "gaze-prediction-narrative-understanding",
+      "last_edited_time": "2026-10-23T01:05:06.601Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-10-23/gaze-prediction-narrative-understanding.md",
+      "notion_url": "https://app.notion.com/p/402d9e60ce9181438629c71d7bb23059",
+      "min_body_cjk": 8000
     }
   }
 }

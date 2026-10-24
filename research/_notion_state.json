@@ -926,6 +926,29 @@
       "source_sha256": "769f9e7c280b1981bfb269887494233038692c6efef73071390aceec685cd450",
       "body_cjk_count": 9542,
       "source": "public-ledger"
+    },
+    "403d9e60-ce91-813b-a1ec-d48a847b030f": {
+      "title": "如果改掉一个细节，结论还成立吗——生成式电影的反事实剪辑与证据边界",
+      "english_title": "If One Detail Changed, Would the Conclusion Hold? Counterfactual Editing and Evidential Limits in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Visual Evidence",
+        "Authorship",
+        "Machine Seeing",
+        "Counterfactual Editing"
+      ],
+      "date": "2026-10-24",
+      "slug": "counterfactual-editing-evidential-limits",
+      "last_edited_time": "2026-10-24T00:42:15.063Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-10-24/counterfactual-editing-evidential-limits.md",
+      "notion_url": "https://app.notion.com/p/403d9e60ce91813ba1ecd48a847b030f",
+      "page_id": "403d9e60-ce91-813b-a1ec-d48a847b030f",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-10-24/counterfactual-editing-evidential-limits/",
+      "source_sha256": "1d63ccb61e3069e1e3883f9166549ac797c744e9d3af2bd9f6866a9a1777f701",
+      "body_cjk_count": 9289,
+      "source": "public-ledger"
     }
   }
 }

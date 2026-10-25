@@ -5,7 +5,7 @@
 Public bilingual archive and static website of LIU BEIHE / 刘北河, documenting moving-image practice and artistic research across **Post-Camera Cinema, Generative Moving Image, Machine Seeing, Authorship, Synthetic Witnessing, Visual Evidence, Nonhuman Salience, and Cultural Compression**.
 
 ## Public reference pages
-- Official website: https://liukun.puruimier.com/
+- Official website: https://liu-beihe.traffic-scorns-0w.chatgpt.site/
 - Public archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/
 - Press / curatorial / research profile: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/press/
 - Research archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/

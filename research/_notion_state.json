@@ -949,6 +949,29 @@
       "source_sha256": "1d63ccb61e3069e1e3883f9166549ac797c744e9d3af2bd9f6866a9a1777f701",
       "body_cjk_count": 9289,
       "source": "public-ledger"
+    },
+    "404d9e60-ce91-81bf-829a-c9212d592a05": {
+      "title": "作品已经改了，责任还在旧版本里——生成式电影的版本身份与更正伦理",
+      "english_title": "When the Work Changes but Old Versions Remain: Version Identity and Correction Ethics in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Authorship",
+        "Visual Evidence",
+        "Synthetic Witnessing",
+        "Version Identity"
+      ],
+      "date": "2026-10-25",
+      "slug": "version-identity-correction-ethics",
+      "last_edited_time": "2026-10-25T00:18:54.063Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-10-25/version-identity-correction-ethics.md",
+      "notion_url": "https://app.notion.com/p/404d9e60ce9181bf829ac9212d592a05",
+      "page_id": "404d9e60-ce91-81bf-829a-c9212d592a05",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-10-25/version-identity-correction-ethics/",
+      "source_sha256": "1dab36d07cc991f4cd255baa75845050374b21de756261d33f8be595a684a21f",
+      "body_cjk_count": 9411,
+      "source": "public-ledger"
     }
   }
 }

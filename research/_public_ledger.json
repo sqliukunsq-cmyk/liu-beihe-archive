@@ -93,6 +93,25 @@
       "source_path": "research/sources/2026-10-24/counterfactual-editing-evidential-limits.md",
       "notion_url": "https://app.notion.com/p/403d9e60ce91813ba1ecd48a847b030f",
       "min_body_cjk": 8000
+    },
+    "404d9e60-ce91-81bf-829a-c9212d592a05": {
+      "title": "作品已经改了，责任还在旧版本里——生成式电影的版本身份与更正伦理",
+      "english_title": "When the Work Changes but Old Versions Remain: Version Identity and Correction Ethics in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Authorship",
+        "Visual Evidence",
+        "Synthetic Witnessing",
+        "Version Identity"
+      ],
+      "date": "2026-10-25",
+      "slug": "version-identity-correction-ethics",
+      "last_edited_time": "2026-10-25T00:18:54.063Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-10-25/version-identity-correction-ethics.md",
+      "notion_url": "https://app.notion.com/p/404d9e60ce9181bf829ac9212d592a05",
+      "min_body_cjk": 8000
     }
   }
 }

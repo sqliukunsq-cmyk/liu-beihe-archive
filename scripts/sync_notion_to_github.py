@@ -178,7 +178,7 @@ def render_article(rec, md):
 <p class="meta">{html.escape(rec.get("english_title",""))}</p></section>
 {content}</article>
 <footer>LIU BEIHE / 刘北河 — Independent Moving-Image Artist & Filmmaker<br>
-Official website: <a href="https://liukun.puruimier.com/">https://liukun.puruimier.com/</a><br>
+Official website: <a href="https://liu-beihe.traffic-scorns-0w.chatgpt.site/">https://liu-beihe.traffic-scorns-0w.chatgpt.site/</a><br>
 © {rec["date"][:4] if rec["date"] else datetime.now().year} LIU BEIHE. All rights reserved.</footer>
 </div></body></html>"""
 

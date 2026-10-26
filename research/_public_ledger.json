@@ -112,6 +112,25 @@
       "source_path": "research/sources/2026-10-25/version-identity-correction-ethics.md",
       "notion_url": "https://app.notion.com/p/404d9e60ce9181bf829ac9212d592a05",
       "min_body_cjk": 8000
+    },
+    "405d9e60-ce91-8152-be20-ed82831ae0a1": {
+      "title": "看不清时，电影能否拒绝补全——生成式影像的不确定性表达与细节权力",
+      "english_title": "Can Cinema Decline to Complete What It Cannot See? Uncertainty Expression and the Authority of Detail in Generative Images",
+      "category": "Core Theory",
+      "keywords": [
+        "Machine Seeing",
+        "Post-Camera Cinema",
+        "Visual Evidence",
+        "Synthetic Witnessing",
+        "Uncertainty"
+      ],
+      "date": "2026-10-26",
+      "slug": "uncertainty-expression-detail-authority",
+      "last_edited_time": "2026-10-26T00:48:42.517Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-10-26/uncertainty-expression-detail-authority.md",
+      "notion_url": "https://app.notion.com/p/405d9e60ce918152be20ed82831ae0a1",
+      "min_body_cjk": 8000
     }
   }
 }

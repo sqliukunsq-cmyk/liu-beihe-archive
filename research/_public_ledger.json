@@ -131,6 +131,25 @@
       "source_path": "research/sources/2026-10-26/uncertainty-expression-detail-authority.md",
       "notion_url": "https://app.notion.com/p/405d9e60ce918152be20ed82831ae0a1",
       "min_body_cjk": 8000
+    },
+    "406d9e60-ce91-8142-8c33-dca7c4c96245": {
+      "title": "从一百次生成里选出一个世界——生成式电影的样本选择与代表性幻觉",
+      "english_title": "Choosing One World from a Hundred Generations: Sample Selection and the Illusion of Representativeness in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Authorship",
+        "Machine Seeing",
+        "Cultural Compression",
+        "Visual Evidence",
+        "Post-Camera Cinema"
+      ],
+      "date": "2026-10-27",
+      "slug": "sample-selection-representativeness-illusion",
+      "last_edited_time": "2026-10-27T00:21:05.908Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-10-27/sample-selection-representativeness-illusion.md",
+      "notion_url": "https://app.notion.com/p/406d9e60ce9181428c33dca7c4c96245",
+      "min_body_cjk": 8000
     }
   }
 }

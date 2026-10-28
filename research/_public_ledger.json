@@ -150,6 +150,26 @@
       "source_path": "research/sources/2026-10-27/sample-selection-representativeness-illusion.md",
       "notion_url": "https://app.notion.com/p/406d9e60ce9181428c33dca7c4c96245",
       "min_body_cjk": 8000
+    },
+    "407d9e60-ce91-814a-8564-f07d75c978ea": {
+      "title": "当字幕先替画面作出判断——生成式电影的文字锚定与证据转译",
+      "english_title": "When Captions Judge Before Images: Textual Anchoring and Evidential Translation in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Machine Seeing",
+        "Visual Evidence",
+        "Authorship",
+        "Synthetic Witnessing",
+        "Cultural Compression",
+        "Post-Camera Cinema"
+      ],
+      "date": "2026-10-28",
+      "slug": "textual-anchoring-evidential-translation",
+      "last_edited_time": "2026-10-28T00:20:52.878Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-10-28/textual-anchoring-evidential-translation.md",
+      "notion_url": "https://app.notion.com/p/407d9e60ce91814a8564f07d75c978ea",
+      "min_body_cjk": 8000
     }
   }
 }

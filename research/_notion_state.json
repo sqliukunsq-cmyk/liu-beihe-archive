@@ -1018,6 +1018,30 @@
       "source_sha256": "28e9bc605d85ba2928829e6ac04cfe1b1e17dbe40dd7412e8447222fb485ad92",
       "body_cjk_count": 9079,
       "source": "public-ledger"
+    },
+    "407d9e60-ce91-814a-8564-f07d75c978ea": {
+      "title": "当字幕先替画面作出判断——生成式电影的文字锚定与证据转译",
+      "english_title": "When Captions Judge Before Images: Textual Anchoring and Evidential Translation in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Machine Seeing",
+        "Visual Evidence",
+        "Authorship",
+        "Synthetic Witnessing",
+        "Cultural Compression",
+        "Post-Camera Cinema"
+      ],
+      "date": "2026-10-28",
+      "slug": "textual-anchoring-evidential-translation",
+      "last_edited_time": "2026-10-28T00:20:52.878Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-10-28/textual-anchoring-evidential-translation.md",
+      "notion_url": "https://app.notion.com/p/407d9e60ce91814a8564f07d75c978ea",
+      "page_id": "407d9e60-ce91-814a-8564-f07d75c978ea",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-10-28/textual-anchoring-evidential-translation/",
+      "source_sha256": "9e145e728509cda8616ff6ec99723a9bc2fdad4c4c5b568b0e05e10b550ef115",
+      "body_cjk_count": 8739,
+      "source": "public-ledger"
     }
   }
 }

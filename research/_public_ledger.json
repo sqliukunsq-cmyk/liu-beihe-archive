@@ -170,6 +170,27 @@
       "source_path": "research/sources/2026-10-28/textual-anchoring-evidential-translation.md",
       "notion_url": "https://app.notion.com/p/407d9e60ce91814a8564f07d75c978ea",
       "min_body_cjk": 8000
+    },
+    "408d9e60-ce91-813f-8e09-ef0e8615d4a6": {
+      "title": "慢下来之后，因果就更清楚了吗——生成式电影的时间尺度与动作证据",
+      "english_title": "Does Slowing Down Clarify Causality? Temporal Scale and Action Evidence in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Visual Evidence",
+        "Authorship",
+        "Nonhuman Salience",
+        "Synthetic Witnessing",
+        "Temporal Scale"
+      ],
+      "date": "2026-10-29",
+      "slug": "temporal-scale-action-evidence",
+      "last_edited_time": "2026-10-29T00:57:17.147Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-10-29/temporal-scale-action-evidence.md",
+      "notion_url": "https://app.notion.com/p/408d9e60ce91813f8e09ef0e8615d4a6",
+      "min_body_cjk": 8000
     }
   }
 }

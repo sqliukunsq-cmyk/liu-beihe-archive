@@ -1042,6 +1042,31 @@
       "source_sha256": "9e145e728509cda8616ff6ec99723a9bc2fdad4c4c5b568b0e05e10b550ef115",
       "body_cjk_count": 8739,
       "source": "public-ledger"
+    },
+    "408d9e60-ce91-813f-8e09-ef0e8615d4a6": {
+      "title": "慢下来之后，因果就更清楚了吗——生成式电影的时间尺度与动作证据",
+      "english_title": "Does Slowing Down Clarify Causality? Temporal Scale and Action Evidence in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Visual Evidence",
+        "Authorship",
+        "Nonhuman Salience",
+        "Synthetic Witnessing",
+        "Temporal Scale"
+      ],
+      "date": "2026-10-29",
+      "slug": "temporal-scale-action-evidence",
+      "last_edited_time": "2026-10-29T00:57:17.147Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-10-29/temporal-scale-action-evidence.md",
+      "notion_url": "https://app.notion.com/p/408d9e60ce91813f8e09ef0e8615d4a6",
+      "page_id": "408d9e60-ce91-813f-8e09-ef0e8615d4a6",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-10-29/temporal-scale-action-evidence/",
+      "source_sha256": "678e0cb1f6bbd49ccfc6c15f2e1c92d3828604004aba43a6467b2655610fa0ba",
+      "body_cjk_count": 8502,
+      "source": "public-ledger"
     }
   }
 }

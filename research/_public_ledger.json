@@ -191,6 +191,26 @@
       "source_path": "research/sources/2026-10-29/temporal-scale-action-evidence.md",
       "notion_url": "https://app.notion.com/p/408d9e60ce91813f8e09ef0e8615d4a6",
       "min_body_cjk": 8000
+    },
+    "409d9e60-ce91-815c-bcb9-f05147691c91": {
+      "title": "摄影机能穿过去，人物就能走过去吗——生成式电影的通行权限与空间作者性",
+      "english_title": "Can the Camera Pass Where the Character Cannot? Spatial Access, Action Permissions, and Authorship in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Cultural Compression",
+        "Authorship",
+        "Machine Seeing",
+        "Nonhuman Salience",
+        "Spatial Access"
+      ],
+      "date": "2026-10-30",
+      "slug": "spatial-access-action-permissions",
+      "last_edited_time": "2026-10-30T00:12:34.046Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-10-30/spatial-access-action-permissions.md",
+      "notion_url": "https://app.notion.com/p/409d9e60ce91815cbcb9f05147691c91",
+      "min_body_cjk": 8000
     }
   }
 }

@@ -1091,6 +1091,30 @@
       "source_sha256": "312e5a240eb68318097952ba78fdd7691ba4e3a75becc3d53682a0ef6ee21e97",
       "body_cjk_count": 9195,
       "source": "public-ledger"
+    },
+    "40ad9e60-ce91-81ff-85ef-e71767e35a69": {
+      "title": "三个镜头，可能只有一个消息来源——生成式电影的交叉印证与素材依赖",
+      "english_title": "Three Shots, One Source: Corroboration and Material Dependence in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Synthetic Witnessing",
+        "Visual Evidence",
+        "Authorship",
+        "Machine Seeing",
+        "Cultural Compression",
+        "Source Dependence"
+      ],
+      "date": "2026-10-31",
+      "slug": "corroboration-source-dependence",
+      "last_edited_time": "2026-10-31T00:32:06.615Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-10-31/corroboration-source-dependence.md",
+      "notion_url": "https://app.notion.com/p/40ad9e60ce9181ff85efe71767e35a69",
+      "page_id": "40ad9e60-ce91-81ff-85ef-e71767e35a69",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-10-31/corroboration-source-dependence/",
+      "source_sha256": "496fa741d4f19b5e9d8cc813d6ede85d7ae870264008b8b3374bb34859268e0a",
+      "body_cjk_count": 8647,
+      "source": "public-ledger"
     }
   }
 }

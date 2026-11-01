@@ -231,6 +231,26 @@
       "source_path": "research/sources/2026-10-31/corroboration-source-dependence.md",
       "notion_url": "https://app.notion.com/p/40ad9e60ce9181ff85efe71767e35a69",
       "min_body_cjk": 8000
+    },
+    "40bd9e60-ce91-81e8-8988-f6db99cda4f9": {
+      "title": "眼泪不是动机说明书——生成式电影的表情推断与情境责任",
+      "english_title": "Tears Are Not a Manual of Motives: Facial Inference and Contextual Responsibility in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Machine Seeing",
+        "Authorship",
+        "Visual Evidence",
+        "Cultural Compression",
+        "Post-Camera Cinema",
+        "Facial Inference"
+      ],
+      "date": "2026-11-01",
+      "slug": "facial-inference-context-responsibility",
+      "last_edited_time": "2026-11-01T00:18:24.433Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-01/facial-inference-context-responsibility.md",
+      "notion_url": "https://app.notion.com/p/40bd9e60ce9181e88988f6db99cda4f9",
+      "min_body_cjk": 8000
     }
   }
 }

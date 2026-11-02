@@ -1139,6 +1139,30 @@
       "source_sha256": "b9918590de03bbc8d7fddc39387c6955b5a922a0b53769e0a04ca3c4f76e0359",
       "body_cjk_count": 9231,
       "source": "public-ledger"
+    },
+    "40cd9e60-ce91-8182-9bc9-fe7f0bd65163": {
+      "title": "颜色改变了，世界就改变了吗——生成式电影的照明解释与色彩证据",
+      "english_title": "Does a Change in Color Mean a Change in the World? Illumination Inference and Color Evidence in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Visual Evidence",
+        "Cultural Compression",
+        "Nonhuman Salience"
+      ],
+      "date": "2026-11-02",
+      "slug": "illumination-material-color-evidence",
+      "last_edited_time": "2026-11-02T00:15:03.693Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-02/illumination-material-color-evidence.md",
+      "notion_url": "https://app.notion.com/p/40cd9e60ce9181829bc9fe7f0bd65163",
+      "page_id": "40cd9e60-ce91-8182-9bc9-fe7f0bd65163",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-11-02/illumination-material-color-evidence/",
+      "source_sha256": "997575f25c70716f3b760fc69aae50ee261a5729ad655564023398423f606047",
+      "body_cjk_count": 10209,
+      "source": "public-ledger"
     }
   }
 }

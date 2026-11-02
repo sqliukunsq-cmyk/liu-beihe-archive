@@ -29,14 +29,14 @@ Public bilingual archive and static website of LIU BEIHE / 刘北河, documentin
 <!-- AUTO_RESEARCH_STATS_START -->
 ## Research archive status / 研究档案状态
 
-**66 public research entries / 共 66 篇公开研究文章**
+**67 public research entries / 共 67 篇公开研究文章**
 
-- Core Theory: 36
+- Core Theory: 37
 - English Essay: 6
 - Industry Research: 13
 - Works Research: 11
 
-- Latest archive date: 2026-11-01
+- Latest archive date: 2026-11-02
 - Draft entries are excluded from GitHub publication.
 - Research Archive: https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/
 <!-- AUTO_RESEARCH_STATS_END -->
@@ -58,3 +58,4 @@ The public GitHub archive is the discoverable research, identity, and SEO layer 
 > 当机器开始生成我们所观看的世界，人类是否仍然是图像唯一的作者？
 
 All works and writings © LIU BEIHE. All rights reserved.
+

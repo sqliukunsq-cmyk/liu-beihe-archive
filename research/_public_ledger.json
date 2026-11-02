@@ -251,6 +251,27 @@
       "source_path": "research/sources/2026-11-01/facial-inference-context-responsibility.md",
       "notion_url": "https://app.notion.com/p/40bd9e60ce9181e88988f6db99cda4f9",
       "min_body_cjk": 8000
+    },
+    "40cd9e60-ce91-8182-9bc9-fe7f0bd65163": {
+      "title": "颜色改变了，世界就改变了吗——生成式电影的照明解释与色彩证据",
+      "english_title": "Does a Change in Color Mean a Change in the World? Illumination Inference and Color Evidence in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Visual Evidence",
+        "Cultural Compression",
+        "Nonhuman Salience"
+      ],
+      "date": "2026-11-02",
+      "slug": "illumination-material-color-evidence",
+      "last_edited_time": "2026-11-02T00:15:03.693Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-02/illumination-material-color-evidence.md",
+      "notion_url": "https://app.notion.com/p/40cd9e60ce9181829bc9fe7f0bd65163",
+      "min_body_cjk": 8000
     }
   }
 }
+

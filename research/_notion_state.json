@@ -1163,6 +1163,30 @@
       "source_sha256": "997575f25c70716f3b760fc69aae50ee261a5729ad655564023398423f606047",
       "body_cjk_count": 10209,
       "source": "public-ledger"
+    },
+    "40dd9e60-ce91-816b-a4c3-d0f75c9963f3": {
+      "title": "桥墩后的箱子还是原来那一个吗——生成式电影的遮挡与对象持存",
+      "english_title": "Is the Case Behind the Pier Still the Same One? Occlusion and Object Persistence in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Visual Evidence",
+        "Synthetic Witnessing",
+        "Nonhuman Salience"
+      ],
+      "date": "2026-11-03",
+      "slug": "occlusion-object-persistence-absence",
+      "last_edited_time": "2026-11-03T00:44:40.090Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-03/occlusion-object-persistence-absence.md",
+      "notion_url": "https://app.notion.com/p/40dd9e60ce91816ba4c3d0f75c9963f3",
+      "page_id": "40dd9e60-ce91-816b-a4c3-d0f75c9963f3",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-11-03/occlusion-object-persistence-absence/",
+      "source_sha256": "988dce8bf858d6bb95e8206fe2dc4a3ffdfad73a9b8a47bf3c6ae5817af14fc2",
+      "body_cjk_count": 9840,
+      "source": "public-ledger"
     }
   }
 }

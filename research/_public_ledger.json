@@ -271,7 +271,26 @@
       "source_path": "research/sources/2026-11-02/illumination-material-color-evidence.md",
       "notion_url": "https://app.notion.com/p/40cd9e60ce9181829bc9fe7f0bd65163",
       "min_body_cjk": 8000
+    },
+    "40dd9e60-ce91-816b-a4c3-d0f75c9963f3": {
+      "title": "桥墩后的箱子还是原来那一个吗——生成式电影的遮挡与对象持存",
+      "english_title": "Is the Case Behind the Pier Still the Same One? Occlusion and Object Persistence in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Visual Evidence",
+        "Synthetic Witnessing",
+        "Nonhuman Salience"
+      ],
+      "date": "2026-11-03",
+      "slug": "occlusion-object-persistence-absence",
+      "last_edited_time": "2026-11-03T00:44:40.090Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-03/occlusion-object-persistence-absence.md",
+      "notion_url": "https://app.notion.com/p/40dd9e60ce91816ba4c3d0f75c9963f3",
+      "min_body_cjk": 8000
     }
   }
 }
-

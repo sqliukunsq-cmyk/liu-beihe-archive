@@ -310,6 +310,26 @@
       "source_path": "research/sources/2026-11-04/repetition-familiarity-source-memory.md",
       "notion_url": "https://app.notion.com/p/40ed9e60ce9181538a93d68b05e5ec3c",
       "min_body_cjk": 8000
+    },
+    "40fd9e60-ce91-81da-94db-dcab2097577c": {
+      "title": "剪切之后，事件真的结束了吗——生成式电影的事件边界与责任时长",
+      "english_title": "Does the Event End at the Cut? Event Boundaries and the Duration of Responsibility in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Authorship",
+        "Synthetic Witnessing",
+        "Nonhuman Salience",
+        "Cultural Compression",
+        "Event Boundaries"
+      ],
+      "date": "2026-11-05",
+      "slug": "event-boundaries-duration-of-responsibility",
+      "last_edited_time": "2026-11-05T00:10:43.665Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-05/event-boundaries-duration-of-responsibility.md",
+      "notion_url": "https://app.notion.com/p/40fd9e60ce9181da94dbdcab2097577c",
+      "min_body_cjk": 8000
     }
   }
 }

@@ -330,6 +330,26 @@
       "source_path": "research/sources/2026-11-05/event-boundaries-duration-of-responsibility.md",
       "notion_url": "https://app.notion.com/p/40fd9e60ce9181da94dbdcab2097577c",
       "min_body_cjk": 8000
+    },
+    "410d9e60-ce91-81d7-b367-fdf688fb984d": {
+      "title": "谁替沉默接上下一句话——生成式电影的轮次分配与关系作者性",
+      "english_title": "Who Supplies the Next Line After Silence? Turn Allocation and Relational Authorship in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Authorship",
+        "Post-Camera Cinema",
+        "Synthetic Witnessing",
+        "Machine Seeing",
+        "Cultural Compression",
+        "Turn Allocation"
+      ],
+      "date": "2026-11-06",
+      "slug": "turn-allocation-silence-relational-authorship",
+      "last_edited_time": "2026-11-06T00:56:48.655Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-06/turn-allocation-silence-relational-authorship.md",
+      "notion_url": "https://app.notion.com/p/410d9e60ce9181d7b367fdf688fb984d",
+      "min_body_cjk": 8000
     }
   }
 }

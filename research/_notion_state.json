@@ -1234,6 +1234,30 @@
       "source_sha256": "cd2f94fc100995a6efdbd47bb023bd5b452fbce9697bd6c808caa3a3b86a0918",
       "body_cjk_count": 8069,
       "source": "public-ledger"
+    },
+    "410d9e60-ce91-81d7-b367-fdf688fb984d": {
+      "title": "谁替沉默接上下一句话——生成式电影的轮次分配与关系作者性",
+      "english_title": "Who Supplies the Next Line After Silence? Turn Allocation and Relational Authorship in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Authorship",
+        "Post-Camera Cinema",
+        "Synthetic Witnessing",
+        "Machine Seeing",
+        "Cultural Compression",
+        "Turn Allocation"
+      ],
+      "date": "2026-11-06",
+      "slug": "turn-allocation-silence-relational-authorship",
+      "last_edited_time": "2026-11-06T00:56:48.655Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-06/turn-allocation-silence-relational-authorship.md",
+      "notion_url": "https://app.notion.com/p/410d9e60ce9181d7b367fdf688fb984d",
+      "page_id": "410d9e60-ce91-81d7-b367-fdf688fb984d",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-11-06/turn-allocation-silence-relational-authorship/",
+      "source_sha256": "64e6d6c183525c5e17071f0abf0a431d0a8cdcbedad7471807d5394080e080ac",
+      "body_cjk_count": 8364,
+      "source": "public-ledger"
     }
   }
 }

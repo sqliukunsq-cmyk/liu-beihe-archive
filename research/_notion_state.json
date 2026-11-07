@@ -1258,6 +1258,31 @@
       "source_sha256": "64e6d6c183525c5e17071f0abf0a431d0a8cdcbedad7471807d5394080e080ac",
       "body_cjk_count": 8364,
       "source": "public-ledger"
+    },
+    "411d9e60-ce91-8168-b1ed-d45acd737760": {
+      "title": "被裁掉的不是空白——生成式电影的画幅转换与关系损失",
+      "english_title": "What Gets Cropped Is Not Empty: Aspect-Ratio Conversion and Relational Loss in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Visual Evidence",
+        "Nonhuman Salience",
+        "Cultural Compression",
+        "Authorship",
+        "Aspect Ratio"
+      ],
+      "date": "2026-11-07",
+      "slug": "aspect-ratio-relational-loss",
+      "last_edited_time": "2026-11-07T00:18:00.018Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-07/aspect-ratio-relational-loss.md",
+      "notion_url": "https://app.notion.com/p/411d9e60ce918168b1edd45acd737760",
+      "page_id": "411d9e60-ce91-8168-b1ed-d45acd737760",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-11-07/aspect-ratio-relational-loss/",
+      "source_sha256": "89c024d16dda5705abdc3a082419ea852ba95bd9136a899d3709fbf455da5397",
+      "body_cjk_count": 8038,
+      "source": "public-ledger"
     }
   }
 }

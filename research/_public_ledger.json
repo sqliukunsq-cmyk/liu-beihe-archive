@@ -350,6 +350,27 @@
       "source_path": "research/sources/2026-11-06/turn-allocation-silence-relational-authorship.md",
       "notion_url": "https://app.notion.com/p/410d9e60ce9181d7b367fdf688fb984d",
       "min_body_cjk": 8000
+    },
+    "411d9e60-ce91-8168-b1ed-d45acd737760": {
+      "title": "被裁掉的不是空白——生成式电影的画幅转换与关系损失",
+      "english_title": "What Gets Cropped Is Not Empty: Aspect-Ratio Conversion and Relational Loss in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Visual Evidence",
+        "Nonhuman Salience",
+        "Cultural Compression",
+        "Authorship",
+        "Aspect Ratio"
+      ],
+      "date": "2026-11-07",
+      "slug": "aspect-ratio-relational-loss",
+      "last_edited_time": "2026-11-07T00:18:00.018Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-07/aspect-ratio-relational-loss.md",
+      "notion_url": "https://app.notion.com/p/411d9e60ce918168b1edd45acd737760",
+      "min_body_cjk": 8000
     }
   }
 }

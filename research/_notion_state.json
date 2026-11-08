@@ -1283,6 +1283,31 @@
       "source_sha256": "89c024d16dda5705abdc3a082419ea852ba95bd9136a899d3709fbf455da5397",
       "body_cjk_count": 8038,
       "source": "public-ledger"
+    },
+    "412d9e60-ce91-8187-85cf-d90adaa9c648": {
+      "title": "噪点很多，并不等于有人在场——生成式电影的噪声风格与来源判断",
+      "english_title": "Noise Does Not Prove a Witness Was There: Noise Style and Source Judgment in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Visual Evidence",
+        "Synthetic Witnessing",
+        "Machine Seeing",
+        "Post-Camera Cinema",
+        "Authorship",
+        "Cultural Compression",
+        "Noise Style"
+      ],
+      "date": "2026-11-08",
+      "slug": "noise-style-source-judgment",
+      "last_edited_time": "2026-11-08T00:28:49.830Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-08/noise-style-source-judgment.md",
+      "notion_url": "https://app.notion.com/p/412d9e60ce91818785cfd90adaa9c648",
+      "page_id": "412d9e60-ce91-8187-85cf-d90adaa9c648",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-11-08/noise-style-source-judgment/",
+      "source_sha256": "0a5592bff6705df44377f038e539e5cee0d221a24484b46adb8b3eacb4f65bff",
+      "body_cjk_count": 8346,
+      "source": "public-ledger"
     }
   }
 }

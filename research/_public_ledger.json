@@ -371,6 +371,27 @@
       "source_path": "research/sources/2026-11-07/aspect-ratio-relational-loss.md",
       "notion_url": "https://app.notion.com/p/411d9e60ce918168b1edd45acd737760",
       "min_body_cjk": 8000
+    },
+    "412d9e60-ce91-8187-85cf-d90adaa9c648": {
+      "title": "噪点很多，并不等于有人在场——生成式电影的噪声风格与来源判断",
+      "english_title": "Noise Does Not Prove a Witness Was There: Noise Style and Source Judgment in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Visual Evidence",
+        "Synthetic Witnessing",
+        "Machine Seeing",
+        "Post-Camera Cinema",
+        "Authorship",
+        "Cultural Compression",
+        "Noise Style"
+      ],
+      "date": "2026-11-08",
+      "slug": "noise-style-source-judgment",
+      "last_edited_time": "2026-11-08T00:28:49.830Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-08/noise-style-source-judgment.md",
+      "notion_url": "https://app.notion.com/p/412d9e60ce91818785cfd90adaa9c648",
+      "min_body_cjk": 8000
     }
   }
 }

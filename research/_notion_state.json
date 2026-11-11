@@ -1334,6 +1334,32 @@
       "source_sha256": "b58df59496ac2f8ebc7dde72ee9b95876eaaf88b6dd980e5376f48d966967963",
       "body_cjk_count": 8199,
       "source": "public-ledger"
+    },
+    "415d9e60-ce91-8131-a7d8-c5965e2ea872": {
+      "title": "倒放之后，修复就发生了吗——生成式电影的时间方向与不可逆损失",
+      "english_title": "Does Reversing Time Repair the Loss? Temporal Direction and Irreversible Consequences in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Synthetic Witnessing",
+        "Visual Evidence",
+        "Nonhuman Salience",
+        "Cultural Compression",
+        "Arrow of Time"
+      ],
+      "date": "2026-11-11",
+      "slug": "reversed-time-repair-irreversible-loss",
+      "last_edited_time": "2026-11-11T00:33:09.429Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-11/reversed-time-repair-irreversible-loss.md",
+      "notion_url": "https://app.notion.com/p/415d9e60ce918131a7d8c5965e2ea872",
+      "page_id": "415d9e60-ce91-8131-a7d8-c5965e2ea872",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-11-11/reversed-time-repair-irreversible-loss/",
+      "source_sha256": "95e7bce67a269532ba1adfa736d85f709d8022289cd97bb08ddb2b3da86224a0",
+      "body_cjk_count": 8219,
+      "source": "public-ledger"
     }
   }
 }

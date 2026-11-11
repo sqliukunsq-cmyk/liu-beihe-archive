@@ -414,6 +414,28 @@
       "source_path": "research/sources/2026-11-09/crowd-individuation-statistical-substitutes.md",
       "notion_url": "https://app.notion.com/p/413d9e60ce918167b665e318e84343ce",
       "min_body_cjk": 8000
+    },
+    "415d9e60-ce91-8131-a7d8-c5965e2ea872": {
+      "title": "倒放之后，修复就发生了吗——生成式电影的时间方向与不可逆损失",
+      "english_title": "Does Reversing Time Repair the Loss? Temporal Direction and Irreversible Consequences in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Synthetic Witnessing",
+        "Visual Evidence",
+        "Nonhuman Salience",
+        "Cultural Compression",
+        "Arrow of Time"
+      ],
+      "date": "2026-11-11",
+      "slug": "reversed-time-repair-irreversible-loss",
+      "last_edited_time": "2026-11-11T00:33:09.429Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-11/reversed-time-repair-irreversible-loss.md",
+      "notion_url": "https://app.notion.com/p/415d9e60ce918131a7d8c5965e2ea872",
+      "min_body_cjk": 8000
     }
   }
 }

@@ -436,6 +436,28 @@
       "source_path": "research/sources/2026-11-11/reversed-time-repair-irreversible-loss.md",
       "notion_url": "https://app.notion.com/p/415d9e60ce918131a7d8c5965e2ea872",
       "min_body_cjk": 8000
+    },
+    "416d9e60-ce91-81e8-a8e9-ed657060c0a8": {
+      "title": "搜到的那一帧，代表整部电影吗——生成式电影的检索相似度与作品判断",
+      "english_title": "Does a Retrieved Frame Represent the Film? Retrieval Similarity and Judgment of Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Machine Seeing",
+        "Authorship",
+        "Post-Camera Cinema",
+        "Synthetic Witnessing",
+        "Visual Evidence",
+        "Nonhuman Salience",
+        "Cultural Compression",
+        "Visual Retrieval"
+      ],
+      "date": "2026-11-12",
+      "slug": "retrieval-similarity-work-judgment",
+      "last_edited_time": "2026-11-12T00:33:26.017Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-12/retrieval-similarity-work-judgment.md",
+      "notion_url": "https://app.notion.com/p/416d9e60ce9181e8a8e9ed657060c0a8",
+      "min_body_cjk": 8000
     }
   }
 }

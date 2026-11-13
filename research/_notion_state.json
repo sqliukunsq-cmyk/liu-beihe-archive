@@ -1386,6 +1386,32 @@
       "source_sha256": "4ae2242a1e4fa9bafb30f1f82b08153dc9965d74635e25750dc7e9eefff285ba",
       "body_cjk_count": 8126,
       "source": "public-ledger"
+    },
+    "417d9e60-ce91-817a-93ad-c08a562e7126": {
+      "title": "两帧之间，谁替人物完成了动作——生成式电影的插帧与时间空缺",
+      "english_title": "Who Supplies the Action Between Two Frames? Frame Interpolation and Temporal Gaps in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Synthetic Witnessing",
+        "Visual Evidence",
+        "Nonhuman Salience",
+        "Cultural Compression",
+        "Frame Interpolation"
+      ],
+      "date": "2026-11-13",
+      "slug": "interpolated-action-temporal-gaps",
+      "last_edited_time": "2026-11-13T00:23:24.717Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-13/interpolated-action-temporal-gaps.md",
+      "notion_url": "https://app.notion.com/p/417d9e60ce91817a93adc08a562e7126",
+      "page_id": "417d9e60-ce91-817a-93ad-c08a562e7126",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-11-13/interpolated-action-temporal-gaps/",
+      "source_sha256": "2a171dc4509bfc4df0cbd42607c4cf1fb017302b79ca0c9f29a812e7f64f9f4b",
+      "body_cjk_count": 8115,
+      "source": "public-ledger"
     }
   }
 }

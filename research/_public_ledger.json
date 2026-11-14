@@ -480,6 +480,28 @@
       "source_path": "research/sources/2026-11-13/interpolated-action-temporal-gaps.md",
       "notion_url": "https://app.notion.com/p/417d9e60ce91817a93adc08a562e7126",
       "min_body_cjk": 8000
+    },
+    "418d9e60-ce91-8198-9001-f2032853d730": {
+      "title": "声音还是他的，答应还是他的吗——生成式电影的跨语配音与发言归属",
+      "english_title": "His Voice, but Whose Assent? Cross-Language Dubbing and Utterance Attribution in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Synthetic Witnessing",
+        "Visual Evidence",
+        "Nonhuman Salience",
+        "Cultural Compression",
+        "Dubbing"
+      ],
+      "date": "2026-11-14",
+      "slug": "dubbed-speech-utterance-attribution",
+      "last_edited_time": "2026-11-14T00:21:31.634Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-14/dubbed-speech-utterance-attribution.md",
+      "notion_url": "https://app.notion.com/p/418d9e60ce9181989001f2032853d730",
+      "min_body_cjk": 8000
     }
   }
 }

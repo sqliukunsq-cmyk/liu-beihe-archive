@@ -1438,6 +1438,32 @@
       "source_sha256": "cf958cafecaabdc8d615383b4d09769ea63f98f54a28bec43495ec893fa57bfe",
       "body_cjk_count": 8161,
       "source": "public-ledger"
+    },
+    "419d9e60-ce91-819e-b1c4-ebc83066052f": {
+      "title": "焦点移过去，他就知道了吗——生成式电影的景深重写与知情归属",
+      "english_title": "Does Refocusing Make Him Know? Synthetic Depth of Field and Knowledge Attribution in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Synthetic Witnessing",
+        "Visual Evidence",
+        "Nonhuman Salience",
+        "Cultural Compression",
+        "Depth of Field"
+      ],
+      "date": "2026-11-15",
+      "slug": "refocus-knowledge-attribution",
+      "last_edited_time": "2026-11-15T00:15:42.864Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-15/refocus-knowledge-attribution.md",
+      "notion_url": "https://app.notion.com/p/419d9e60ce91819eb1c4ebc83066052f",
+      "page_id": "419d9e60-ce91-819e-b1c4-ebc83066052f",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-11-15/refocus-knowledge-attribution/",
+      "source_sha256": "83f25c8ddfbee4cd3f250540dd2435f138ebb467a609506bda674cdfb001dd62",
+      "body_cjk_count": 8145,
+      "source": "public-ledger"
     }
   }
 }

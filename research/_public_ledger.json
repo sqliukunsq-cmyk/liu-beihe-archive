@@ -524,6 +524,28 @@
       "source_path": "research/sources/2026-11-15/refocus-knowledge-attribution.md",
       "notion_url": "https://app.notion.com/p/419d9e60ce91819eb1c4ebc83066052f",
       "min_body_cjk": 8000
+    },
+    "41ad9e60-ce91-8121-9ccb-dab0638fb920": {
+      "title": "脸被修好了，谁的年龄被改写了——生成式电影的面部修复与生命时间",
+      "english_title": "Whose Age Changes When a Face Is Restored? Facial Restoration and Biographical Time in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Synthetic Witnessing",
+        "Visual Evidence",
+        "Nonhuman Salience",
+        "Cultural Compression",
+        "Face Restoration"
+      ],
+      "date": "2026-11-16",
+      "slug": "face-restoration-biographical-time",
+      "last_edited_time": "2026-11-16T00:43:11.591Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-16/face-restoration-biographical-time.md",
+      "notion_url": "https://app.notion.com/p/41ad9e60ce9181219ccbdab0638fb920",
+      "min_body_cjk": 8000
     }
   }
 }

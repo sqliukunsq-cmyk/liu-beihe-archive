@@ -1464,6 +1464,32 @@
       "source_sha256": "83f25c8ddfbee4cd3f250540dd2435f138ebb467a609506bda674cdfb001dd62",
       "body_cjk_count": 8145,
       "source": "public-ledger"
+    },
+    "41ad9e60-ce91-8121-9ccb-dab0638fb920": {
+      "title": "脸被修好了，谁的年龄被改写了——生成式电影的面部修复与生命时间",
+      "english_title": "Whose Age Changes When a Face Is Restored? Facial Restoration and Biographical Time in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Synthetic Witnessing",
+        "Visual Evidence",
+        "Nonhuman Salience",
+        "Cultural Compression",
+        "Face Restoration"
+      ],
+      "date": "2026-11-16",
+      "slug": "face-restoration-biographical-time",
+      "last_edited_time": "2026-11-16T00:43:11.591Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-16/face-restoration-biographical-time.md",
+      "notion_url": "https://app.notion.com/p/41ad9e60ce9181219ccbdab0638fb920",
+      "page_id": "41ad9e60-ce91-8121-9ccb-dab0638fb920",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-11-16/face-restoration-biographical-time/",
+      "source_sha256": "b30eb001c1617bb949a94a8e55727959e345309222e7bd14726e2a765d3ed0f6",
+      "body_cjk_count": 8108,
+      "source": "public-ledger"
     }
   }
 }

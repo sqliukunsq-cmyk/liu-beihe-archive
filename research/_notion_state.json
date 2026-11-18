@@ -1490,6 +1490,30 @@
       "source_sha256": "b30eb001c1617bb949a94a8e55727959e345309222e7bd14726e2a765d3ed0f6",
       "body_cjk_count": 8108,
       "source": "public-ledger"
+    },
+    "41cd9e60-ce91-8128-9cb3-d4a04afcf9e5": {
+      "title": "影子落对了，物体就真的落地了吗——生成式电影的投影关系与承重判断",
+      "english_title": "Does a Correct Shadow Mean the Object Has Landed? Shadow Relations and Load Transfer in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Visual Evidence",
+        "Nonhuman Salience",
+        "Cultural Compression"
+      ],
+      "date": "2026-11-18",
+      "slug": "shadow-relations-load-transfer",
+      "last_edited_time": "2026-11-18T00:26:28.587Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-18/shadow-relations-load-transfer.md",
+      "notion_url": "https://app.notion.com/p/41cd9e60ce9181289cb3d4a04afcf9e5",
+      "page_id": "41cd9e60-ce91-8128-9cb3-d4a04afcf9e5",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-11-18/shadow-relations-load-transfer/",
+      "source_sha256": "e7b0b494a6aeac1eb3cf956ac9684c25680d3cbff0e16e49bd5fffe12284e58d",
+      "body_cjk_count": 9080,
+      "source": "public-ledger"
     }
   }
 }

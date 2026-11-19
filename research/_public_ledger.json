@@ -586,6 +586,25 @@
       "source_path": "research/sources/2026-11-19/video-summaries-revisable-decisions.md",
       "notion_url": "https://app.notion.com/p/41dd9e60ce9181d9b74ac4fe6c82fabd",
       "min_body_cjk": 8000
+    },
+    "41bd9e60-ce91-814a-aeac-f328246249e5": {
+      "title": "安静下来以后，谁被从现场删掉了——生成式电影的语音增强与环境共在",
+      "english_title": "Who Disappears When the Sound Gets Cleaner? Speech Enhancement and Environmental Co-Presence in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Authorship",
+        "Nonhuman Salience",
+        "Cultural Compression",
+        "Sound"
+      ],
+      "date": "2026-11-19",
+      "slug": "speech-enhancement-environmental-copresence",
+      "last_edited_time": "2026-11-17T00:31:45.475Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-17/speech-enhancement-environmental-copresence.md",
+      "notion_url": "https://app.notion.com/p/41bd9e60ce91814aaeacf328246249e5",
+      "min_body_cjk": 8000
     }
   }
 }

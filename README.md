@@ -29,9 +29,9 @@ Public bilingual archive and static website of LIU BEIHE / 刘北河, documentin
 <!-- AUTO_RESEARCH_STATS_START -->
 ## Research archive status / 研究档案状态
 
-**82 public research entries / 共 82 篇公开研究文章**
+**83 public research entries / 共 83 篇公开研究文章**
 
-- Core Theory: 52
+- Core Theory: 53
 - English Essay: 6
 - Industry Research: 13
 - Works Research: 11

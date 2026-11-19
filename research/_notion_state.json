@@ -1538,6 +1538,29 @@
       "source_sha256": "3cea8636e1f173ac8e572cf3450e994203106138dc933080971388a236f822c7",
       "body_cjk_count": 8213,
       "source": "public-ledger"
+    },
+    "41bd9e60-ce91-814a-aeac-f328246249e5": {
+      "title": "安静下来以后，谁被从现场删掉了——生成式电影的语音增强与环境共在",
+      "english_title": "Who Disappears When the Sound Gets Cleaner? Speech Enhancement and Environmental Co-Presence in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Authorship",
+        "Nonhuman Salience",
+        "Cultural Compression",
+        "Sound"
+      ],
+      "date": "2026-11-19",
+      "slug": "speech-enhancement-environmental-copresence",
+      "last_edited_time": "2026-11-17T00:31:45.475Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-17/speech-enhancement-environmental-copresence.md",
+      "notion_url": "https://app.notion.com/p/41bd9e60ce91814aaeacf328246249e5",
+      "page_id": "41bd9e60-ce91-814a-aeac-f328246249e5",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-11-19/speech-enhancement-environmental-copresence/",
+      "source_sha256": "b99728c597127116277977367b6fdcee1c3066a0ade22614c95502289d81714f",
+      "body_cjk_count": 8149,
+      "source": "public-ledger"
     }
   }
 }

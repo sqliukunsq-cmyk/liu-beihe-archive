@@ -566,6 +566,26 @@
       "source_path": "research/sources/2026-11-18/shadow-relations-load-transfer.md",
       "notion_url": "https://app.notion.com/p/41cd9e60ce9181289cb3d4a04afcf9e5",
       "min_body_cjk": 8000
+    },
+    "41dd9e60-ce91-81d9-b74a-c4fe6c82fabd": {
+      "title": "剪成精华之后，人物还来得及改主意吗——生成式电影的视频摘要与决定过程",
+      "english_title": "Can a Character Still Change Their Mind in the Highlights? Video Summaries and Revisable Decisions in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Synthetic Witnessing",
+        "Nonhuman Salience",
+        "Cultural Compression"
+      ],
+      "date": "2026-11-19",
+      "slug": "video-summaries-revisable-decisions",
+      "last_edited_time": "2026-11-19T00:18:20.602Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-19/video-summaries-revisable-decisions.md",
+      "notion_url": "https://app.notion.com/p/41dd9e60ce9181d9b74ac4fe6c82fabd",
+      "min_body_cjk": 8000
     }
   }
 }

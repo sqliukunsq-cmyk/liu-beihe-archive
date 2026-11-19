@@ -1514,6 +1514,30 @@
       "source_sha256": "e7b0b494a6aeac1eb3cf956ac9684c25680d3cbff0e16e49bd5fffe12284e58d",
       "body_cjk_count": 9080,
       "source": "public-ledger"
+    },
+    "41dd9e60-ce91-81d9-b74a-c4fe6c82fabd": {
+      "title": "剪成精华之后，人物还来得及改主意吗——生成式电影的视频摘要与决定过程",
+      "english_title": "Can a Character Still Change Their Mind in the Highlights? Video Summaries and Revisable Decisions in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Synthetic Witnessing",
+        "Nonhuman Salience",
+        "Cultural Compression"
+      ],
+      "date": "2026-11-19",
+      "slug": "video-summaries-revisable-decisions",
+      "last_edited_time": "2026-11-19T00:18:20.602Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-19/video-summaries-revisable-decisions.md",
+      "notion_url": "https://app.notion.com/p/41dd9e60ce9181d9b74ac4fe6c82fabd",
+      "page_id": "41dd9e60-ce91-81d9-b74a-c4fe6c82fabd",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-11-19/video-summaries-revisable-decisions/",
+      "source_sha256": "3cea8636e1f173ac8e572cf3450e994203106138dc933080971388a236f822c7",
+      "body_cjk_count": 8213,
+      "source": "public-ledger"
     }
   }
 }

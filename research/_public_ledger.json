@@ -605,6 +605,25 @@
       "source_path": "research/sources/2026-11-17/speech-enhancement-environmental-copresence.md",
       "notion_url": "https://app.notion.com/p/41bd9e60ce91814aaeacf328246249e5",
       "min_body_cjk": 8000
+    },
+    "41ed9e60-ce91-814e-8020-cec3dbc168a4": {
+      "title": "画面稳住以后，谁还在摇晃——生成式电影的数字防抖与运动归属",
+      "english_title": "After Stabilization: Motion Attribution and the Director’s Choice of Reference",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Visual Evidence",
+        "Nonhuman Salience"
+      ],
+      "date": "2026-11-20",
+      "slug": "stabilization-motion-attribution",
+      "last_edited_time": "2026-11-20T00:41:37.676Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-20/stabilization-motion-attribution.md",
+      "notion_url": "https://app.notion.com/p/41ed9e60ce91814e8020cec3dbc168a4",
+      "min_body_cjk": 8000
     }
   }
 }

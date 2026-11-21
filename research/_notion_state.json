@@ -1584,6 +1584,30 @@
       "source_sha256": "5a80b20c6a7d3606ab583bc243a0e4442fa3e5e88c795ec3693fe9bb679faad9",
       "body_cjk_count": 9275,
       "source": "public-ledger"
+    },
+    "41fd9e60-ce91-8116-a289-fa30fdb95ce5": {
+      "page_id": "41fd9e60-ce91-8116-a289-fa30fdb95ce5",
+      "title": "雾把远处变成什么——生成式电影的气象可见性与非人类叙事",
+      "english_title": "What Does Fog Make of the Distance? Weather Visibility and Nonhuman Narration in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Nonhuman Salience",
+        "Visual Evidence",
+        "Cultural Compression",
+        "Synthetic Witnessing"
+      ],
+      "date": "2026-11-21",
+      "slug": "fog-weather-visibility-nonhuman-agency",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-11-21/fog-weather-visibility-nonhuman-agency/",
+      "last_edited_time": "2026-11-21T00:40:02.346Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-21/fog-weather-visibility-nonhuman-agency.md",
+      "notion_url": "https://app.notion.com/p/41fd9e60ce918116a289fa30fdb95ce5",
+      "source_sha256": "bcf54d1df7c6952f62dc9da1ed36c0f5ff58e59e64353bce6b50865ce9db27d1",
+      "body_cjk_count": 12182,
+      "source": "public-ledger"
     }
   }
 }

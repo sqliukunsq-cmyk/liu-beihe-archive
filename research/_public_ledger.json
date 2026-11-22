@@ -644,6 +644,27 @@
       "source_path": "research/sources/2026-11-21/fog-weather-visibility-nonhuman-agency.md",
       "notion_url": "https://app.notion.com/p/41fd9e60ce918116a289fa30fdb95ce5",
       "min_body_cjk": 8000
+    },
+    "420d9e60-ce91-812a-965d-f9103243c826": {
+      "title": "地标出现了，地点就成立了吗——生成式电影的地理指认与空间责任",
+      "english_title": "Does a Landmark Make a Place? Geographic Identification and Spatial Responsibility in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Visual Evidence",
+        "Cultural Compression",
+        "Nonhuman Salience",
+        "Geographic Representation",
+        "Spatial Responsibility"
+      ],
+      "date": "2026-11-22",
+      "slug": "landmark-place-geographic-identification-responsibility",
+      "last_edited_time": "2026-11-22T00:45:53.672Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-22/landmark-place-geographic-identification-responsibility.md",
+      "notion_url": "https://app.notion.com/p/420d9e60ce91812a965df9103243c826",
+      "min_body_cjk": 8000
     }
   }
 }

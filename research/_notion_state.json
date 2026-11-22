@@ -1608,6 +1608,29 @@
       "source_sha256": "08bd7610a8d855d63e50a287ebb656b4d967bd39285596562ce333c2b719d30f",
       "body_cjk_count": 12182,
       "source": "public-ledger"
+    },
+    "420d9e60-ce91-812a-965d-f9103243c826": {
+      "page_id": "420d9e60-ce91-812a-965d-f9103243c826",
+      "title": "地标出现了，地点就成立了吗——生成式电影的地理指认与空间责任",
+      "english_title": "Does a Landmark Make a Place? Geographic Identification and Spatial Responsibility in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Visual Evidence",
+        "Cultural Compression",
+        "Nonhuman Salience",
+        "Geographic Representation",
+        "Spatial Responsibility"
+      ],
+      "date": "2026-11-22",
+      "slug": "landmark-place-geographic-identification-responsibility",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-11-22/landmark-place-geographic-identification-responsibility/",
+      "last_edited_time": "2026-11-22T00:45:53.672Z",
+      "status": "Ready",
+      "source_sha256": "d2315abe2e71b44e64ecaa2f04453be11720e0427ee8a4b529b74fe452064efe",
+      "body_cjk_count": 14428,
+      "source": "public-ledger"
     }
   }
 }

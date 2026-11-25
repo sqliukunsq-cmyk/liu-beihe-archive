@@ -1633,6 +1633,31 @@
       "source_sha256": "d2315abe2e71b44e64ecaa2f04453be11720e0427ee8a4b529b74fe452064efe",
       "body_cjk_count": 14428,
       "source": "public-ledger"
+    },
+    "423d9e60-ce91-8114-9b9b-d890d5d9290d": {
+      "title": "直线被扶正以后，时间也被扶正了吗——生成式电影的滚动快门校正与时序证据",
+      "english_title": "When Straight Lines Are Corrected, Is Time Corrected Too? Rolling-Shutter Correction and Temporal Evidence in Generative Cinema",
+      "category": "Core Theory",
+      "keywords": [
+        "Post-Camera Cinema",
+        "Machine Seeing",
+        "Authorship",
+        "Synthetic Witnessing",
+        "Visual Evidence",
+        "Nonhuman Salience",
+        "Rolling Shutter"
+      ],
+      "date": "2026-11-25",
+      "slug": "rolling-shutter-correction-temporal-evidence",
+      "last_edited_time": "2026-11-25T00:15:43.665Z",
+      "status": "Ready",
+      "source_path": "research/sources/2026-11-25/rolling-shutter-correction-temporal-evidence.md",
+      "notion_url": "https://app.notion.com/p/423d9e60ce9181149b9bd890d5d9290d",
+      "page_id": "423d9e60-ce91-8114-9b9b-d890d5d9290d",
+      "url": "https://sqliukunsq-cmyk.github.io/liu-beihe-archive/research/2026-11-25/rolling-shutter-correction-temporal-evidence/",
+      "source_sha256": "99b3290404402f7cce123022be06f36b892906559f2680bb182940132b43590d",
+      "body_cjk_count": 8400,
+      "source": "public-ledger"
     }
   }
 }
